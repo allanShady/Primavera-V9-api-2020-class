@@ -2,7 +2,7 @@
 Contains all samples discussed in our internal classes (VBA and .net core - C#)
 
 ### Why?
-We created this project to growth the primavara community (especial in Moz) that can build amazing products to help the companies achieve more results.
+We created this project to help Moz primavera community grow and to be able to develop amazing products to help the companies achieve more results.
 
 ### Contents 
 - [ ] VBA sintax overview
@@ -10,7 +10,7 @@ We created this project to growth the primavara community (especial in Moz) that
 - [ ] Mandatory fields (perform validations using Primavera API)
 - [ ] Query info from Primavera ERP using its API
 - [ ] Custom user fields manipulations
-- [ ] [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language) overview 
+- [ ] [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)) overview 
 - [ ] Create and registem [DLL](https://pt.wikipedia.org/wiki/DLL) that is visible in [VBA](https://pt.wikipedia.org/wiki/Visual_Basic_for_Applications)
 - [ ] Create indenpendent C# APP that interact with Primavera ERP throght VBA.
 - [ ] How to use Primavera [COM interops](https://en.wikipedia.org/wiki/COM_Interop)
