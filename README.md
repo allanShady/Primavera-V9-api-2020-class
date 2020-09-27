@@ -5,7 +5,7 @@ Contains all samples discussed in our internal classes (VBA and .net core - C#)
 We created this project to help Moz primavera community grow and to be able to develop amazing products to help the companies achieve more results.
 
 ### Contents 
-- [ ] VBA sintax overview
+- [x] VBA sintax overview
 - [ ] Primavera V9 [API](https://pt.wikipedia.org/wiki/Api) overview
 - [ ] Mandatory fields (perform validations using Primavera API)
 - [ ] Query info from Primavera ERP using its API
