@@ -6,8 +6,8 @@ We created this project to help Moz primavera community grow and to be able to d
 
 ### Contents 
 - [x] VBA sintax overview
-- [ ] Primavera V9 [API](https://pt.wikipedia.org/wiki/Api) overview
-- [ ] Mandatory fields (perform validations using Primavera API)
+- [x] Primavera V9 [API](https://pt.wikipedia.org/wiki/Api) overview
+- [x] Mandatory fields (perform validations using Primavera API)
 - [ ] Query info from Primavera ERP using its API
 - [ ] Custom user fields manipulations
 - [ ] [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)) overview 
